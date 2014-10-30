@@ -1,0 +1,33 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/tomek/Pulpit/marcin/def_macierz.rb": [
+        1,
+        13,
+        4,
+        9,
+        23,
+        23,
+        93,
+        93,
+        null,
+        23,
+        null,
+        9,
+        null,
+        4,
+        4,
+        9,
+        23,
+        23,
+        null,
+        9,
+        9,
+        null,
+        4,
+        null
+      ]
+    },
+    "timestamp": 1414672101
+  }
+}
